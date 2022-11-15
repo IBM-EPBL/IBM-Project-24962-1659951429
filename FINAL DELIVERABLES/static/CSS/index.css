@@ -1,0 +1,21 @@
+.header{
+  font-size: 6vw;
+  font-family: 'Anton', sans-serif;
+  line-height: 29.33vw;
+  opacity:0;
+  transition: opacity 2s;
+}
+
+.row
+{
+  margin: 0px;
+}
+
+.expand{
+  margin-top: 10vw;
+}
+
+.meet-img{
+  opacity:0;
+  transition: opacity 4s;
+}
