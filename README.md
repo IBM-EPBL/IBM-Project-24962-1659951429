@@ -1,5 +1,5 @@
-# IBM-Project-24962-1659951429
-## AI based discourse for Banking Industry
+# 💻 IBM-Project-24962-1659951429
+## 🤖 AI based discourse for Banking Industry
 ### Technology: Artificial Intelligence
 **Team ID:** PNT2022TMID15597
 
@@ -11,8 +11,8 @@
 
 ### Tasks
 
-- Project Design & Planning
-  - Ideation Phase
+-  Project Design & Planning
+  -  Ideation Phase
     - [x] Literature Survey
     - [x] Problem Statement
     - [x] Empathy Map
