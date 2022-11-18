@@ -1,15 +1,15 @@
 # 💻 IBM-Project-24962-1659951429
 ## 🤖 AI based discourse for Banking Industry
-### Technology: Artificial Intelligence
-**Team ID:** PNT2022TMID15597
+
+**Team - ID:** PNT2022TMID15597
 
 **Batch:** B3 - 3M5E
 
-**Team Leader:** Ajay Kumar T M
+**Team Leader:** AJAY KUMAR T M
 
-**Team Members:** Dinesh P N, Devi Prasad S M, Dinesh Kumar G, Balumohan B
+**Team Members:** DINESH P N, DEVI PRASAD S M, DINESH KUMAR G, BALUMOHAN B
 
-### Tasks
+### ✅ Tasks
 
 -  Project Design & Planning
   -  Ideation Phase
@@ -35,17 +35,20 @@
     - [x] Sprint 2
     - [x] Sprint 3
     - [x] Sprint 4
+    - [x] Test Reports
   - Final Deliverables
-    - [x] Main Folder
+    - [x] Source Code
+    - [x] Project Demo Video
+    - [x] Project Documentation
     
-### Assignments
+### 📑 Assignments
 
 - [x] Assignment 1
 - [x] Assignment 2
 - [x] Assignment 3
 - [x] Assignment 4
     
-### About The Project
+### ✍ About The Project
 
 **Project Description:**
 
